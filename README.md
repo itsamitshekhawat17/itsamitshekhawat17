@@ -1,80 +1,87 @@
-<h1 align="center">Hi 👋, I'm Amit Singh</h1>
-<h3 align="center">🚀 B.Tech 3rd Year | Full Stack Developer | DSA Explorer</h3>
+<!-- Bright Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4E50,FC913A,F9D423&height=200&section=header&text=Hi%20👋,%20I'm%20Amit%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h3 align="center">🚀 B.Tech 3rd Year | Fullstack Developer | 100 Days of DSA 🚀</h3>
+
+<!-- Coding GIF + Learning Info Side-by-Side -->
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzIzcjgwZmc0end6OGF6Zmc5MjA4NmVyOG9veDhpY2c4dDhqNTJhaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="250"/></td>
+      <td>
+        <ul>
+          <li>🌐 I'm learning <b>Next.js (Frontend)</b></li>
+          <li>🐍 Exploring <b>FastAPI (Python Backend)</b></li>
+          <li>📈 On a mission: <b>100 Days of DSA</b></li>
+          <li>💡 Love to build real-world projects & learn by doing!</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🔗 Connect with Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <a href="mailto:itsmeamitsingh17@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/amit-singh-7246002b7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/itsamitsingh17" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/amit17.shekhawat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Next.js (Frontend)** and **FastAPI (Python Backend)**
-- 🔥 On a mission: **100 Days of DSA**
-- 💬 Ask me about **C++, Python, JavaScript, React, FastAPI**
-- 📫 Reach me at: [amitsingh@example.com](mailto:amitsingh@example.com)
+### ⚙️ Languages and Tools:
 
----
-
-### 🔗 Connect with me:
-
-<p align="left">
-  <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" height="40" />
 </p>
 
 ---
+### 📈 GitHub Stats (Live)
 
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="render" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="100" height="40"/>
+<!-- First row: Languages and Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsamitshekhawat17&show_icons=true&locale=en&layout=compact&theme=radical" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=itsamitshekhawat17&show_icons=true&theme=radical&locale=en" height="150"/>
 </p>
+
+<!-- Second row: GitHub Streak -->
+<p align="center">
+  <!-- Official Vercel endpoint -->
+<!--   <img src="https://streak-stats.demolab.com?user=itsamitshekhawat17&theme=radical&hide_border=true" height="180" alt="GitHub Streak Stats"/>
+</p>
+ -->
+<!-- Optional: If the above fails, use this backup -->
+
 
 ---
 
-### 📊 GitHub Stats
+### 👁️‍🗨️ Profile Views
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-singh-github&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit-singh-github&show_icons=true&locale=en" alt="github-stats" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsamitshekhawat17&label=Profile%20views&color=ff69b4&style=flat-square" />
 </p>
 
 ---
 
-### 🔥 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amit-singh-github&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+### 🧠 Fun Fact
+
+<p align="center">
+  ⚡ I believe in <strong>learning by building</strong> and turning ideas into reality!
 </p>
-
-<!--
-**itsamitshekhawat17/itsamitshekhawat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
